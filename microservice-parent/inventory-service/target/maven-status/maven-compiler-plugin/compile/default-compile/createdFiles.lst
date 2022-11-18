@@ -1,0 +1,7 @@
+com\stephen\inventoryservice\dto\InventoryResponse.class
+com\stephen\inventoryservice\model\Inventory.class
+com\stephen\inventoryservice\repository\InventoryRepository.class
+com\stephen\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\stephen\inventoryservice\InventoryServiceApplication.class
+com\stephen\inventoryservice\service\InventoryService.class
+com\stephen\inventoryservice\controller\InventoryController.class

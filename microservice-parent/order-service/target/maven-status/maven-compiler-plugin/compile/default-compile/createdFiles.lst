@@ -1,0 +1,11 @@
+com\stephen\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\stephen\orderservice\dto\InventoryResponse.class
+com\stephen\orderservice\controller\OrderController.class
+com\stephen\orderservice\repository\OrderRepository.class
+com\stephen\orderservice\OrderServiceApplication.class
+com\stephen\orderservice\model\OrderLineItems.class
+com\stephen\orderservice\dto\OrderRequest.class
+com\stephen\orderservice\model\Order.class
+com\stephen\orderservice\service\OrderService.class
+com\stephen\orderservice\dto\OrderLineItemsDto.class
+com\stephen\orderservice\config\WebClientConfig.class

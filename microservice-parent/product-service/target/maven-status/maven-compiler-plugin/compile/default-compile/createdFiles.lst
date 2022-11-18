@@ -1,0 +1,10 @@
+com\stephen\productservice\service\ProductService.class
+com\stephen\productservice\dto\ProductRequest.class
+com\stephen\productservice\model\Product.class
+com\stephen\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\stephen\productservice\controller\ProductController.class
+com\stephen\productservice\dto\ProductResponse.class
+com\stephen\productservice\ProductServiceApplication.class
+com\stephen\productservice\repository\ProductRepository.class
+com\stephen\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\stephen\productservice\model\Product$ProductBuilder.class
